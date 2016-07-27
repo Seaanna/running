@@ -1,0 +1,65 @@
+body{
+	font-family: sans-serif;
+	background: linear-gradient(to top, #d6e3f3, #517dd3);
+	text-align: center;
+}
+
+nav a {
+	color:#d6e3f3;
+	text-align: center;
+	font-family: sans-serif;
+	font-weight: bolder; 
+	text-decoration: none;
+	margin:5px 10px;
+    border:5px solid #d6e3f3;
+    padding:15px;
+    border-radius: 25px;
+}
+
+nav {
+	padding-top: 75px;
+	padding-bottom: 75px;
+}
+
+header {
+	margin-right: 40px;
+	margin-left:  40px;
+	padding-bottom: 50px;
+	background-image: url("http://i1.wp.com/hikingsdcounty.com/wp-content/uploads/2014/06/20140613MissionTrails_pano_9786.jpg");
+}
+
+#main_header {
+	color: #deb320;
+	font-size: 50px;
+}
+
+figure {
+	color: #7a8380;
+	font-weight: lighter;
+	border-radius: 25px;
+	font-style: italic;
+	border:5px solid #deb320;
+	padding-top: 10px;
+	padding-bottom: 10px;
+} 
+
+figure >figcaption {
+	padding-top: 5px;
+}
+
+h2, h3{
+	color: #171a10;
+	font-size: 30px;
+}
+
+p {
+	margin-right: 40px;
+	margin-left: 40px;
+	font-size: 20px;
+}
+
+#p1>img{
+	border-radius: 20px;
+	max-width: 235px;
+	padding:5px;
+}
